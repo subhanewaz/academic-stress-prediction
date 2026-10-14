@@ -34,6 +34,8 @@ The dataset (`academic_stress_level_dataset.csv`) is **not included** in this re
 
 ## My contribution
 
+- Designed, trained and evaluated the Neural Network classifier (Keras), reaching 62% test accuracy
 - Built the Linear Regression model and evaluated it with R² and mean squared error
 - Evaluated the K-Nearest Neighbors classifier's accuracy
-- Designed, trained and evaluated the Neural Network classifier (Keras), reaching 62% test accuracy
+- Collaborated on exploratory data analysis: histograms, correlation heatmap and scatter matrix
+- Co-developed K-Means clustering on peer pressure vs. academic pressure from home
